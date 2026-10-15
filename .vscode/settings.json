@@ -1,0 +1,8 @@
+{
+  "dart.flutterSdkPath": "C:\\src\\flutter",
+  "dart.env": {
+    "JAVA_TOOL_OPTIONS": "-Djdk.net.unixdomain.tmpdir=C:\\src\\jtmp"
+  },
+  "dart.lineLength": 100,
+  "editor.formatOnSave": true
+}
